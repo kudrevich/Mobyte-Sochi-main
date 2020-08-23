@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "540718107770",
+    "firebase_url": "https://push-6db64.firebaseio.com",
+    "project_id": "push-6db64",
+    "storage_bucket": "push-6db64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540718107770:android:d4f8b16732ffc5a182bfc3",
+        "android_client_info": {
+          "package_name": "com.example.football_screens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540718107770-087k8edp9c87unrbdo0d9fi6l02rh88e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABTCAXziNY_MzoYG1vuxHmbBKdT5wOXYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540718107770-087k8edp9c87unrbdo0d9fi6l02rh88e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "540718107770-r9ghrbmgc25254sniq5akg0q890r42ih.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mobyteDev.appnisAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540718107770:android:0d3c603b94adbf4582bfc3",
+        "android_client_info": {
+          "package_name": "com.mobyteDev.app_nis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540718107770-087k8edp9c87unrbdo0d9fi6l02rh88e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABTCAXziNY_MzoYG1vuxHmbBKdT5wOXYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540718107770-087k8edp9c87unrbdo0d9fi6l02rh88e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "540718107770-r9ghrbmgc25254sniq5akg0q890r42ih.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mobyteDev.appnisAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540718107770:android:48612dcf7c69877182bfc3",
+        "android_client_info": {
+          "package_name": "com.mobyte_dev.app_nis_admins_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540718107770-087k8edp9c87unrbdo0d9fi6l02rh88e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABTCAXziNY_MzoYG1vuxHmbBKdT5wOXYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540718107770-087k8edp9c87unrbdo0d9fi6l02rh88e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "540718107770-r9ghrbmgc25254sniq5akg0q890r42ih.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mobyteDev.appnisAdmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
