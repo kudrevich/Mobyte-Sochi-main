@@ -1,4 +1,5 @@
 # Mobyte-Sochi-main
 
-https://github.com/SyberiaEmperor/football_admin
-https://github.com/MobyteDev/football
+admin: https://github.com/SyberiaEmperor/football_admin
+
+server: https://github.com/MobyteDev/football
